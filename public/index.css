@@ -1,0 +1,6 @@
+body {
+    background-image: url('.//npmbg.jpeg');
+    height: 600px;
+    background-size:contain; /* Cover the entire viewport */
+    background-position: center; /* Center the background image */
+}
